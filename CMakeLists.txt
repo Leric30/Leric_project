@@ -1,8 +1,6 @@
-# 指定 CMake 的最低版本
 cmake_minimum_required(VERSION 3.10)
+project(RoboMaster)
 
-# 给项目起个名字
-project(MyFirstProject)
+set(CMAKE_CXX_STANDARD 17)
 
-# 告诉编译器：把 main.cpp 编译成一个叫 main 的程序
-add_executable(main main.cpp)
+add_executable(hello src/main.cpp)

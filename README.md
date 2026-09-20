@@ -1,7 +1,13 @@
-<<<<<<< HEAD
-# 我的第一个 C++ 项目
-这个项目使用 C++ 编写，并使用 CMake 构建，通过 Git 管理版本。
-=======
 # Leric_project
 Leric's repository for the first project of RoboMaster.
->>>>>>> cda6252d9a0f57111686858ef0d5520b1da688e4
+# RoboMaster
+
+## 环境
+- 操作系统：Ubuntu 26.04
+- 编译器：g++ 15.2.0
+- 构建工具：CMake 4.2.3
+
+## 构建命令
+```bash
+cmake -S . -B build
+cmake --build build

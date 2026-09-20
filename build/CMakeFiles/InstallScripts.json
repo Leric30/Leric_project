@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/lyk/lyk_code/RoboMaster/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
