@@ -1,3 +1,0 @@
-/home/lyk/lyk_code/RoboMaster/build/CMakeFiles/hello.dir
-/home/lyk/lyk_code/RoboMaster/build/CMakeFiles/edit_cache.dir
-/home/lyk/lyk_code/RoboMaster/build/CMakeFiles/rebuild_cache.dir
