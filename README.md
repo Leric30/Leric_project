@@ -12,4 +12,4 @@ Leric's repository for the first project of RoboMaster.
 cmake -S . -B build
 cmake --build build
 
-!【success】（images/success.png）
+![success](images/success.png)
