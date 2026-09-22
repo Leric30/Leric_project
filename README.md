@@ -9,7 +9,4 @@ Leric's repository for the first project of RoboMaster.
 
 ## 构建命令
 ```bash
-cmake -S . -B build
-cmake --build build
-
 ![image](https://github.com/Leric30/Leric_project/blob/main/img/success.png)
